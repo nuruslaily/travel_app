@@ -1,6 +1,6 @@
-# travel_app
+# Travel app
 
-A new Flutter project.
+This is my project using flutter called travel-app, hope it helps!
 
 ## Getting Started
 
