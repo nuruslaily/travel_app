@@ -1,18 +1,54 @@
-# Travel app
+# ✈️ Travel App
 
-🌍✈️ Travel App is your all-in-one mobile travel companion, built with Flutter — making every journey smooth, fun, and unforgettable! 🧳🎒📍
+A mobile travel app built with Flutter that lets users explore, book, and review curated open trips across Indonesia — from the iconic Komodo Islands to the serene beaches of Bali and the volcanic views of Bromo.
 
-This is my project using flutter called travel-app, hope it helps!
+---
 
-## Getting Started
+## 🧭 Features
 
-This project is a starting point for a Flutter application.
+- 📍 Browse available open trips
+- 🖼 View photos, itinerary, and included/excluded facilities
+- 📅 Select visit dates or custom date ranges
+- 🧾 Dynamic total price calculation
+- 🧑‍🤝‍🧑 View traveler reviews
+- 🗺️ Interactive itineraries
+- 🖼️ Offline & online images support
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** (stateful widgets, layout system)
+- **Dart** language
+- **Local mock data** (for trips, reviews, itinerary)
+- **Date management** with `intl` package
+
+---
+
+## 📂 Project Structure
+travel_app/
+├── assets/
+├── lib/
+
+ 
+
+# App images
+![Pantai Pink di Labuan Bajo](assets/images/pink_beach.jpg)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/travel_app.git
+cd travel_app
+```
+### 2. Get Packages
+```
+flutter pub get
+```
+### 3. Run the App
+```
+flutter run
+```
