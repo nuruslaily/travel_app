@@ -33,7 +33,7 @@ travel_app/
  
 
 # App images
-![App](assets/images/app.jpeg)
+<img src="assets/images/app.jpeg" width="300"/>
 
 ---
 
