@@ -33,7 +33,7 @@ travel_app/
  
 
 # App images
-![Pantai Pink di Labuan Bajo](assets/images/pink_beach.jpg)
+![App](assets/images/app.jpeg)
 
 ---
 
